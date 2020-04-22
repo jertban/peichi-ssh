@@ -2,7 +2,7 @@
 ## Usage
 
 ```
-bash <(curl https://github.com/jertban/peichi-ssh/blob/master/key.sh) [options...] <arg>
+bash <(curl https://github.com/jertban/peichi-ssh/blob/master/key.sh) -g jertban -d
 ```
 
 ## Options
